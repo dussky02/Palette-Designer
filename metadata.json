@@ -1,0 +1,6 @@
+{
+  "name": "Palette Designer",
+  "description": "A web application that helps designers generate, adjust, import, and export cohesive color palettes with custom color groups, shades, and HSL/RGB interpolation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
